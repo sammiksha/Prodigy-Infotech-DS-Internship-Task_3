@@ -36,3 +36,5 @@ Scikit-learn
 📂 Dataset
 
 Bank Marketing Dataset (UCI Machine Learning Repository)
+
+<img width="1550" height="868" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/a19a5b94-e169-49ea-9407-e59cf0c1cf83" />
